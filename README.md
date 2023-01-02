@@ -1,11 +1,11 @@
 # Online Code Editor 
-[Live Demo](https://ide.bablukumar9.repl.co/)
+[Live Demo]()
 
 ## Libraries used: codemirror & react-codemirror2
 ## Created Online code editor that resides on a remote server and is accessible via browsers. This online code editor have basic features like syntax highlighting.
 
 ## ScreenShot
-<img width="1439" alt="Screenshot 2022-12-09 at 1 02 26 PM" src="https://user-images.githubusercontent.com/109030441/206649114-e0ae1191-bce3-4034-849b-7f14a48a0a76.png">
+<img width="1439" alt="" src="">
 
 
 ## Local Setup
