@@ -5,7 +5,8 @@
 ## Created Online code editor that resides on a remote server and is accessible via browsers. This online code editor have basic features like syntax highlighting.
 
 ## ScreenShot
-<img width="1439" alt="frontend ide pic" src="https://drive.google.com/file/d/1MS_LiyD6LW4rbxx47Fh1vUcy-xFbYqyn/view?usp=share_link">
+<img width="1439" alt="frontend ide pic" src="![Screenshot (13)](https://user-images.githubusercontent.com/117328349/210239154-976d4e39-5f5f-4db7-b581-654720eb861f.png)
+">
 
 
 ## Local Setup
